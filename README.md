@@ -4,6 +4,7 @@ README for Walmart 2022 SWE Internship take-home coding assessment.
 1. Enter src folder with Main.java 
 2. Run `javac Main.java`
 3. Run `java Main <input file path> <output file name>`
+   1. Note: Output file's path is in ~/Movie/output/... folder
 4. To test, cd into the Main folder containing the pom.xml file. Then call `mvn test` after populating tests in ~/src/test/java.
 
 

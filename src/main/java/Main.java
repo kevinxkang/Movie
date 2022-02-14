@@ -15,6 +15,7 @@ public class Main {
     this.inputPath = args[0];
     this.outputName = args[1];
 
+    // java Main <input path> <output name>
     //"/Users/kevinkang/Desktop/cs_projects/Walmart/TheaterSeating/input/input_test1.txt";
   }
 
